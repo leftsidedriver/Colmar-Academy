@@ -1,5 +1,6 @@
 body {
     background-color: lightgray;
+    font-family: Helvetica, sans-serif;
 }
 
 header {
@@ -7,4 +8,11 @@ header {
     position: fixed;
     z-index: 1;
     width: 100%;
+    align-items: center;
+}
+
+.header-li {
+    padding-right: 20px;
+    align-items: end;
+    color: rgb(52, 47, 47)
 }
