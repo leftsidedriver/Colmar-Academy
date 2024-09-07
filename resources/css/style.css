@@ -1,0 +1,10 @@
+body {
+    background-color: lightgray;
+}
+
+header {
+    background-color: white;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
