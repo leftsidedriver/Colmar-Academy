@@ -9,10 +9,29 @@ header {
     z-index: 1;
     width: 100%;
     align-items: center;
+    height: 64px;
+}
+
+.flex-cont-head {
+    display: flex;
+    justify-content: center;
 }
 
 .header-li {
-    padding-right: 20px;
-    align-items: end;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#sighin {
+    padding-right: 24px;
+}
+
+.header-img {
+    float: left;
+    padding-left: 24px;
+    height: 32px;
+}
+
+a {
     color: rgb(52, 47, 47)
 }
