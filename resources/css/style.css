@@ -20,6 +20,7 @@ header {
 .header-li {
     padding-left: 8px;
     padding-right: 8px;
+    float: right;
 }
 
 #sighin {
@@ -30,6 +31,7 @@ header {
     float: left;
     padding-left: 24px;
     height: 32px;
+    float: left;
 }
 
 a {
